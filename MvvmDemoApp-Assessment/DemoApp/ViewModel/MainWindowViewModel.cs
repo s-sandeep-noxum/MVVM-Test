@@ -74,11 +74,6 @@ namespace DemoApp.ViewModel
 						};
 		}
 
-		private void CreateSales()
-		{
-			throw new NotImplementedException();
-		}
-
 		#endregion // Commands
 
 		#region Workspaces
@@ -135,6 +130,11 @@ namespace DemoApp.ViewModel
 			{
 				MessageBox.Show(ex.ToString());
 			}
+		}
+
+		private void CreateSales()
+		{
+			throw new NotImplementedException();
 		}
 
 		void ShowAllCustomers()
