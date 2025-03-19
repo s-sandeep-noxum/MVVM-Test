@@ -178,7 +178,7 @@ namespace DemoApp.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sales.
+        ///   Looks up a localized string similar to Sales Information.
         /// </summary>
         public static string MainWindowViewModel_Command_Sales {
             get {
