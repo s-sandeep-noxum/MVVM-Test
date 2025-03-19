@@ -19,3 +19,4 @@ F:\MVVM-Test\MvvmDemoApp-Assessment\DemoApp\obj\Debug\DemoApp.csproj.GenerateRes
 F:\MVVM-Test\MvvmDemoApp-Assessment\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
 F:\MVVM-Test\MvvmDemoApp-Assessment\DemoApp\obj\Debug\DemoApp.exe
 F:\MVVM-Test\MvvmDemoApp-Assessment\DemoApp\obj\Debug\DemoApp.pdb
+F:\MVVM-Test\MvvmDemoApp-Assessment\DemoApp\bin\Debug\DemoApp.exe.config

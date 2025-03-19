@@ -11,13 +11,13 @@
         "projectPath": "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
-          "net35": {
+          "net47": {
             "projectReferences": {}
           }
         }
       },
       "frameworks": {
-        "net35": {}
+        "net47": {}
       }
     },
     "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj": {
@@ -40,7 +40,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net40"
+          "net47"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -48,7 +48,7 @@
           "https://noxum.pkgs.visualstudio.com/_packaging/Noxum/nuget/v3/index.json": {}
         },
         "frameworks": {
-          "net40": {
+          "net47": {
             "projectReferences": {
               "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj": {
                 "projectPath": "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj"
@@ -63,7 +63,7 @@
         }
       },
       "frameworks": {
-        "net40": {
+        "net47": {
           "dependencies": {
             "MicrosoftVisualStudioQualityToolsUnitTestFramework": {
               "target": "Package",

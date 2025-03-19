@@ -1,14 +1,14 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.0": {
+    ".NETFramework,Version=v4.7": {
       "MicrosoftVisualStudioQualityToolsUnitTestFramework/1.0.2": {
         "type": "package",
         "compile": {
-          "lib/net40/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
         },
         "runtime": {
-          "lib/net40/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
         }
       },
       "DemoApp/1.0.0": {
@@ -21,14 +21,14 @@
         }
       }
     },
-    ".NETFramework,Version=v4.0/win": {
+    ".NETFramework,Version=v4.7/win": {
       "MicrosoftVisualStudioQualityToolsUnitTestFramework/1.0.2": {
         "type": "package",
         "compile": {
-          "lib/net40/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
         },
         "runtime": {
-          "lib/net40/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
         }
       },
       "DemoApp/1.0.0": {
@@ -41,14 +41,14 @@
         }
       }
     },
-    ".NETFramework,Version=v4.0/win-arm64": {
+    ".NETFramework,Version=v4.7/win-arm64": {
       "MicrosoftVisualStudioQualityToolsUnitTestFramework/1.0.2": {
         "type": "package",
         "compile": {
-          "lib/net40/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
         },
         "runtime": {
-          "lib/net40/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
         }
       },
       "DemoApp/1.0.0": {
@@ -61,14 +61,14 @@
         }
       }
     },
-    ".NETFramework,Version=v4.0/win-x64": {
+    ".NETFramework,Version=v4.7/win-x64": {
       "MicrosoftVisualStudioQualityToolsUnitTestFramework/1.0.2": {
         "type": "package",
         "compile": {
-          "lib/net40/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
         },
         "runtime": {
-          "lib/net40/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
         }
       },
       "DemoApp/1.0.0": {
@@ -81,14 +81,14 @@
         }
       }
     },
-    ".NETFramework,Version=v4.0/win-x86": {
+    ".NETFramework,Version=v4.7/win-x86": {
       "MicrosoftVisualStudioQualityToolsUnitTestFramework/1.0.2": {
         "type": "package",
         "compile": {
-          "lib/net40/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
         },
         "runtime": {
-          "lib/net40/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
         }
       },
       "DemoApp/1.0.0": {
@@ -123,7 +123,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.0": [
+    ".NETFramework,Version=v4.7": [
       "DemoApp >= 1.0.0",
       "MicrosoftVisualStudioQualityToolsUnitTestFramework >= 1.0.2"
     ]
@@ -152,7 +152,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net40"
+        "net47"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -160,7 +160,7 @@
         "https://noxum.pkgs.visualstudio.com/_packaging/Noxum/nuget/v3/index.json": {}
       },
       "frameworks": {
-        "net40": {
+        "net47": {
           "projectReferences": {
             "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj": {
               "projectPath": "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj"
@@ -175,7 +175,7 @@
       }
     },
     "frameworks": {
-      "net40": {
+      "net47": {
         "dependencies": {
           "MicrosoftVisualStudioQualityToolsUnitTestFramework": {
             "target": "Package",
