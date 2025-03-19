@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\viewmodel\\commandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\viewmodel\\commandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\properties\\strings.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\properties\\strings.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\mainwindowresources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\mainwindowresources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\viewmodel\\workspaceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\viewmodel\\workspaceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\view\\allcustomersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\view\\allcustomersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\data\\customers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\data\\customers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\class diagrams\\customerclasses.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\class diagrams\\customerclasses.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\view\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\view\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\viewmodel\\allcustomersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\viewmodel\\allcustomersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|c:\\users\\sandeep.shenoy\\downloads\\mvvmdemoapp-assessment\\demoapp\\dataaccess\\customeraddedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFD5D4-94BD-40F3-BABA-E5FC7B6DB623}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\dataaccess\\customeraddedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Strings.resx",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\Properties\\Strings.resx",
+              "RelativeDocumentMoniker": "DemoApp\\Properties\\Strings.resx",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\Properties\\Strings.resx",
+              "RelativeToolTip": "DemoApp\\Properties\\Strings.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-19T04:51:13.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "DemoApp\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "DemoApp\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwE0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:39:38.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerClasses.cd",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\Class Diagrams\\CustomerClasses.cd",
+              "RelativeDocumentMoniker": "DemoApp\\Class Diagrams\\CustomerClasses.cd",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\Class Diagrams\\CustomerClasses.cd",
+              "RelativeToolTip": "DemoApp\\Class Diagrams\\CustomerClasses.cd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-03-18T11:39:17.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\Model\\Customer.cs",
+              "RelativeToolTip": "DemoApp\\Model\\Customer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:38:32.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "customers.xml",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\Data\\customers.xml",
+              "RelativeDocumentMoniker": "DemoApp\\Data\\customers.xml",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\Data\\customers.xml",
+              "RelativeToolTip": "DemoApp\\Data\\customers.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-18T11:39:11.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkspaceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\ViewModel\\WorkspaceViewModel.cs",
+              "RelativeDocumentMoniker": "DemoApp\\ViewModel\\WorkspaceViewModel.cs",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\ViewModel\\WorkspaceViewModel.cs",
+              "RelativeToolTip": "DemoApp\\ViewModel\\WorkspaceViewModel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:39:45.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DemoApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\MainWindow.xaml",
+              "RelativeToolTip": "DemoApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T11:41:03.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindowResources.xaml",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\MainWindowResources.xaml",
+              "RelativeDocumentMoniker": "DemoApp\\MainWindowResources.xaml",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\MainWindowResources.xaml",
+              "RelativeToolTip": "DemoApp\\MainWindowResources.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T04:41:08.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\ViewModel\\CommandViewModel.cs",
+              "RelativeDocumentMoniker": "DemoApp\\ViewModel\\CommandViewModel.cs",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\ViewModel\\CommandViewModel.cs",
+              "RelativeToolTip": "DemoApp\\ViewModel\\CommandViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:39:30.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllCustomersView.xaml",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\View\\AllCustomersView.xaml",
+              "RelativeDocumentMoniker": "DemoApp\\View\\AllCustomersView.xaml",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\View\\AllCustomersView.xaml",
+              "RelativeToolTip": "DemoApp\\View\\AllCustomersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T11:38:21.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AllCustomersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\ViewModel\\AllCustomersViewModel.cs",
+              "RelativeDocumentMoniker": "DemoApp\\ViewModel\\AllCustomersViewModel.cs",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\ViewModel\\AllCustomersViewModel.cs",
+              "RelativeToolTip": "DemoApp\\ViewModel\\AllCustomersViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:39:27.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\ViewModel\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "DemoApp\\ViewModel\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\ViewModel\\CustomerViewModel.cs",
+              "RelativeToolTip": "DemoApp\\ViewModel\\CustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:39:34.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DemoApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\App.xaml.cs",
+              "RelativeToolTip": "DemoApp\\App.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:44:54.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DemoApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DemoApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:41:56.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerView.xaml",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\View\\CustomerView.xaml",
+              "RelativeDocumentMoniker": "DemoApp\\View\\CustomerView.xaml",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\View\\CustomerView.xaml",
+              "RelativeToolTip": "DemoApp\\View\\CustomerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T11:38:15.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "DemoApp\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "DemoApp\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewBAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:39:41.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\App.xaml",
+              "RelativeDocumentMoniker": "DemoApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\App.xaml",
+              "RelativeToolTip": "DemoApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T11:39:44.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "DemoApp\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\RelayCommand.cs",
+              "RelativeToolTip": "DemoApp\\RelayCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:39:49.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerAddedEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\DataAccess\\CustomerAddedEventArgs.cs",
+              "RelativeDocumentMoniker": "DemoApp\\DataAccess\\CustomerAddedEventArgs.cs",
+              "ToolTip": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\DataAccess\\CustomerAddedEventArgs.cs",
+              "RelativeToolTip": "DemoApp\\DataAccess\\CustomerAddedEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:38:59.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

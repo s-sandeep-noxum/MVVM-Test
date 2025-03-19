@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj",
+        "projectName": "DemoApp",
+        "projectPath": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net35": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net35": {}
+      }
+    },
+    "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Sandeep.shenoy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sandeep.shenoy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://noxum.pkgs.visualstudio.com/_packaging/Noxum/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "projectReferences": {
+              "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj": {
+                "projectPath": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "dependencies": {
+            "MicrosoftVisualStudioQualityToolsUnitTestFramework": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
