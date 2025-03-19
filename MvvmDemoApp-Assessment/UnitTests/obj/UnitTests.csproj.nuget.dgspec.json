@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj": {}
+    "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj": {
+    "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj",
+        "projectUniqueName": "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj",
         "projectName": "DemoApp",
-        "projectPath": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj",
+        "projectPath": "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net35": {
@@ -20,14 +20,14 @@
         "net35": {}
       }
     },
-    "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj": {
+    "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj",
+        "projectPath": "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\UnitTests\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\Sandeep.shenoy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\UnitTests\\obj\\",
+        "outputPath": "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "UsingMicrosoftNETSdk": false,
@@ -50,8 +50,8 @@
         "frameworks": {
           "net40": {
             "projectReferences": {
-              "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj": {
-                "projectPath": "C:\\Users\\Sandeep.shenoy\\Downloads\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj"
+              "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj": {
+                "projectPath": "F:\\MVVM-Test\\MvvmDemoApp-Assessment\\DemoApp\\DemoApp.csproj"
               }
             }
           }
